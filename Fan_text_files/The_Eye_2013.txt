@@ -1,0 +1,300 @@
+I’m not crazy.
+
+Mike wasn’t either.
+
+The police said we were both nuts, but I know they’re wrong.
+
+In the beginning, all I was trying to do was help a friend.
+
+I met Mike in a freshman computer science class in college. Our jockeying for the highest grade quickly developed into a fast, if competitive, friendship. We were always racing to be the first to solve some new mind bender, or find the flaw in some hot new encryption algorithm. And the odds were, if one of us couldn’t do it, the other one could. Being the more practical of the pair, I’d studied computer engineering, while Mike had gone straight for theoretical mathematics.
+
+I’d graduated and found my niche working as a contractor for a three-letter-acronym agency in DC’s Maryland suburbs, doing things you couldn’t legally do anywhere else. Mike had ended up in Maryland too, pursuing his doctorate at Allegany University, in the state’s mountainous panhandle. Its math department was eclectic and small, but prestigious, and he fit right in.
+
+So when he e-mailed me about how his graphing software kept choking on an equation he was researching, and asking if I could debug it for him, I had to say yes. I wanted to help him out; the bragging rights were just a bonus.
+
+By Saturday afternoon, I had a thumb drive with a copy of the software on it. Mike had insisted on express mailing it to me, rather than letting me download it, and it came with a note telling me that I wasn’t to discuss it with anyone. It was a little bit odd, but that was Mike.
+
+The software was open source, so I could at least take a crack at trying to figure out what was wrong. It took 39 caffeine- and pizza-fueled hours at the computer, tracking down bugs in bizarre edge cases the equation triggered, and plugging improbable memory leaks up and down the code stack, but just after midnight Monday morning, I got it.
+
+Mike hadn’t told me what to expect, other than I would know it when I saw it.
+
+He was right.
+
+The graph spread over my computer screen like frost blooming across a window. The arcs spiraled around, making nearly a full circle before little curls began peeling off from the main arc. It divided into three smaller spirals, within which the pattern repeated. Each successive iteration wasn’t quite identical to its parent — there was similarity, not repetition.
+
+It was beautiful, and I couldn’t look away.
+
+
+
+I looked at the thing until sunrise, when I finally tore myself away and sent Mike an e-mail telling him the good news. Then I called in sick to work and went to bed.
+
+Mike was ecstatic in his reply, though he scolded me for including a screen shot of the graph: he told me to copy everything onto the thumb drive and overnight it back to him.
+
+When I replied, I told Mike the cloak-and-dagger stuff was getting to be a bit much. His next e-mail was apologetic. He didn’t mean to be paranoid, he wrote, but this was a make-or-break project for him.
+
+If he was right, he’d be in the textbooks, he wrote. If not, he’d rather that no one knew he’d gone down this path. It would keep him from being a laughingstock.
+
+Then he invited me out to Cumberland the next weekend, to see what he was working on.
+
+I agreed, but only on the condition that if he’d found something big, I get credit in his paper for doing his tech support.
+
+
+
+I mailed the thumb drive back to Cumberland that day, but I didn’t delete my copy. Despite his insistence on secrecy, Mike hadn’t told me to delete it, and I didn’t ask. I decided to keep it until I’d heard from Mike and knew everything was up and running on his computer.
+
+That I could keep studying the fractal was just a side benefit. The thing had kept spiraling through my mind before I fell asleep, and now that I was fully rested, I wanted to look at it again. The results were disappointing: the fractal was still interesting, though not as addictive as it had been at first.
+
+I spent an hour or so examining it, and considered coding a little standalone program to generate the design, but then the phone rang and I pushed the idea aside to deal with other things.
+
+
+
+The possibility that Mike might be on to something big piqued my curiosity, so I spent a lot of time that week doing my own research. With the fractal being the only piece of information I had to go on, I couldn’t get very far, though. I read up on fractals in general, and compared the image on my screen to others I found online, trying to figure out its significance, or whether anyone else had found the same thing. But nothing told me why Mike thought this fractal was special.
+
+I couldn’t get the fractal off my mind — I doodled it on my notepad during long meetings at work, and by the end of the week, I was dreaming about sitting in front of my computer, staring at it on the screen. I told myself I’d gotten too invested in the fractal, and when I got back from Cumberland I’d stop thinking about it for a few days.
+
+
+
+I drove the four hours to Cumberland right after work on Friday.
+
+As soon as Mike opened his door, his baggy eyes and stubbly chin showed he hadn’t slept much since I’d fixed his software. Still, he looked happy, and his eyes lit up when I asked him how things were going.
+
+When Mike told me he was on the verge of revolutionizing mathematics, I’d been expecting him to show me his solution to one of the Millennium Prizes or something. Instead, he started showing me pages out of some dusty old tome from the university’s rare books room.
+
+He had high-resolution scans of the Liber Oculi–The Book of the Eye. And from the first page he showed me, it was clear what Eye the book was about: Mike’s fractal. It was everywhere in the book, in big standalone panels, woven into the capitals, even subtly hinted at in the background. The biggest images were garish, in verdigris greens and heart-blood reds, electric blues and sulfur yellows. Overall the effect seemed calculated to burn the design into the reader’s retina so that one would see it even behind closed eyes.
+
+The book was from the eighth century, Mike said, and parts of the text implied it was a translation or extrapolation of a much older work, something that came out of ancient Egypt or Sumeria.
+
+The images were incredible, he said, but even more amazing was that the text itself contained the equations for calculating the fractal, albeit in an esoteric code. The text was a mish-mash of Greek, Latin and Arabic. Mike said that Alonso Grechi, a visiting professor from Miskatonic University, had translated the text, and come to him for help when he realized it might have mathematical significance.
+
+It was impossible, Mike said, for someone to have discovered this design more than a thousand years ago: history said the necessary math hadn’t been discovered yet. Except it apparently had, in dim and shadowed corners of the world.
+
+“This is going to rewrite the history of math,” Mike said, his eyes shining with an intensity I’d never seen before. “The paper’s going to be a blockbuster, I’m just waiting for Alonso to confirm the book’s authentic.”
+
+At first, I was excited for Mike. But as I looked through the pages, my stomach began to churn.
+
+When I’d first seen the fractal, I’d found it beautiful and compelling. In its original context it became disturbing and sinister. I’d seen illuminated manuscripts before, and this was as intricate and detailed as any I knew. But where other manuscripts had little portraits of angels or pictures of mice stealing cheese tucked into corners here and there, the Book of the Eye was filled with monstrosities. Tentacles curled between lines of text, while bizarre creatures with bat-like wings and jigsaw teeth perched atop the largest capitals, leering at the reader. In cramped corners, bloated, bulbous things with too many mouths and long, claw-tipped hands dined on platters of human limbs. The fractal itself was the worst, though: on several of the pages, the Eye was set in the head of a feral, hungry-looking creature, its single faceted eye staring out over a thin, ragged, blood-spattered snout.
+
+“Awful stuff, isn’t it? It’s not really relevant, though,” Mike said, dismissing the nightmare images. “The math’s the important thing.”
+
+He showed me images from the book and portions of the computerized rendering I’d helped him create: the book’s authors had gotten into minute detail with the design, drawing elements from seven and eight levels deep in the calculations.
+
+The cyclic, endless nature of the Eye had fascinated its discoverers, Mike said. According to Professor Grechi, they’d used it like a labyrinth, drawing or mentally tracing it to focus their minds and commune with their gods.
+
+“Videri Oculis videre,” was the book’s mantra in the original Latin. Or, in Professor Grechi’s translation: “To see the Eye is to be seen.”
+
+The thought of someone wanting to look at, much less be seen by, the grotesque beings staining the book’s pages made me shiver.
+
+I eventually managed to peel Mike away from his computer to visit his favorite beer and pizza joint downtown. Out of deference to Mike’s paranoia, we didn’t talk about the Eye. But he was clearly distracted, and our conversation flitted uncomfortably from topic to topic, never reaching any great depth. Even my attempts to engage him in logic puzzles fell flat. More than once, I caught him tracing spirals in the droplets of beer that had splashed from our pitcher. He didn’t seem to notice he was doing it, and I didn’t say anything. Maybe I should have.
+
+I crashed on Mike’s couch that night, following a long conversation about what the book was, how entire branches of mathematics could have been discovered, then abandoned without a trace. Free again to talk about the Eye, Mike let down his guard, and the strange light in his eyes reignited itself. He’d always been intense, but this kind of obsession was unusual, even for him.
+
+
+
+When I got home Saturday evening, I booted up my computer and delved into the Eye’s depths again. But having seen where it had come from, I couldn’t help but mentally place it in that monstrous face from the book. After a while, I felt more as if the Eye were looking at me, than I at it. So, I decided I wouldn’t look at it anymore: it was Mike’s project, and I had nothing to add to it. But again, I didn’t delete Mike’s files from my computer. It wasn’t a conscious decision, more of a vague notion that it was better for Mike to have an off-site backup, in case anything went wrong.
+
+That was the last serious thought I gave the Eye or Mike for a  few days: I didn’t have the time or the energy. One of my co-workers quit in the middle of a project, and I had to dive into his code, with an alpha release date breathing down my neck.
+
+The dreams kept bothering me, though.
+
+They’d changed since I’d gone up to visit Mike. The Eye was free-floating now, just an image hanging in space in front of me. As hard as I tried to look away, some part of it would catch my eye, and then the image would grow, or maybe I would shrink and fall into the thing, until it was all I could see. It didn’t make for a restful night’s sleep.
+
+The lack of sleep left me tired and irritable, but otherwise OK, and life went on like that for a few days. Until one night when I was doing the dishes after dinner.
+
+I’d made stir-fry, and I was scrubbing a bit of stuck-on bell pepper off the wok when I noticed something at the corner of my eye. A knot of suds, clinging to the edge of the pan, clusters of bubbles nestled in a single, larger bubble, all in a familiar pattern.
+
+The Eye.
+
+It was only there for a moment; even as I realized what it was, a few of the bubbles popped, and the illusion was gone.
+
+And it was just an illusion, I decided. The odds of the suds in my kitchen sink spontaneously organizing themselves into the shape of the Eye were tiny. The human brain is very good at identifying patterns. It’s so good that sometimes it’ll construct a pattern where there’s really nothing to see. There’s even a word for it: pareidolia. What I’d seen was no more meaningful than someone’s claim they’d seen the Virgin Mary scorched into a piece of toast.
+
+There was nothing to it, I told myself.
+
+Then I saw it again.
+
+It happened the next day, as I was walking out to my car. The air was crisp and clear, with the horizon just turning red and gold. It was a beautiful autumn morning, and quiet except for the first squawks from the starlings that had settled in the street trees overnight and were now waking up. Then came the crash. It was just a fender-bender, but the noise was loud enough to scare the starlings from their perches. They launched into the air, a churning crowd of dark shapes against the brightening sky. Each bird striving to sort itself out amongst its mates as the flock decided where to go. And there, for a split second, the Eye appeared in the teeming chaos of the flock. I could see it in the spacing of the birds, the arcs and turns of their flights, staring down at me.
+
+I wanted to tell someone else to look, but as quickly as it had appeared, it vanished; the flock winging east for breakfast or a quieter roost. I stood there in confusion, wondering what had just happened.
+
+Once had been a coincidence. Twice was straining credibility.
+
+When I arrived at work, I e-mailed Mike, telling him what I’d seen. A few hours later he replied that he’d had similar experiences.  He was excited to think that the Eye might have broader implications. He asked me to keep track of where I saw it, so he could better decide how to proceed.
+
+I didn’t see the Eye again that day, but I did the next, and the day after that. The sightings piled up fast: I saw it in the clouds rolling in with an oncoming cold front, the upwelling of cream in my coffee, and in the droplets of water clustered on my shower door.
+
+And with each new sighting, the sense grew that something was watching me. I’d feel a tingling at the back of my neck, turn around, and the Eye would be staring at me from a momentary glitch on the electronic billboard across the street. It got to the point where once I felt I was being watched, I had to search for the Eye, and couldn’t rest until I’d found it.
+
+I wasn’t sure anymore whether the Eye actually was everywhere, or I was just so obsessed that I’d find it when I looked for it, no matter how hard I had to squint or bend things to make them fit. Regardless, I was starting to feel hunted.
+
+The dreams were getting worse too: every night, now, I dreamed of falling into the Eye, watching helplessly as deeper and deeper iterations of the image boiled up before me, giving the hideous impression of an alien eye welling up, piercing me with its gaze, then swelling with ingrown orbs until one of its own malevolent, probing children finally overwhelmed it and took its place. And as I fell, quiet, arrhythmic clicking sounds would echo out of the darkness, crackling cadences that sounded too close to speech for comfort.
+
+I e-mailed Mike again, telling him about the problems I was having. For the first time, he admitted to some uneasiness on his part. He kept finding more and more manifestations of the Eye too, far more than he could explain. He was almost afraid to leave his apartment, he wrote, for fear he’d find the Eye somewhere else. He’d tried to consult with Professor Grechi, but he’d had left town unexpectedly and wasn’t answering calls or e-mails.
+
+After two weeks of this, I was a wreck. I shambled through my days with bloodshot eyes and an aching body. The only thing that roused me was my near-manic need to find the Eye when I felt it was watching me. At work I was either falling asleep at my desk, or pacing in my office with my eyes closed, trying not to see. I wasn’t accomplishing anything, and we were going to miss our deadline.
+
+Thursday, my boss ordered me to stay home the next day, and told me that on Monday, I either needed to be back at 100 percent, or have a doctor’s note explaining that I needed an extended absence.
+
+On the bus ride home the Eye was everywhere I looked — in the cracks on the street, the spatters of dried mud on a car driving beside the bus, the scratches in the Plexiglas shield behind the driver’s head. Eventually, I gave up, closed my eyes, and tried to will myself invisible. The person sitting next to me got up and moved to a different seat.
+
+I was shaking as I walked up the sidewalk toward my apartment building.
+
+I’d nearly reached the door when I heard the rattling, rustling sound of windblown leaves dancing through the street. It struck me that the day had been calm until then, so I looked up.
+
+A cloud of leaves was tumbling toward me.
+
+And as I looked, the sound of the leaves became sharper, crisper, until it resembled the chitinous clacking I’d heard every night for the past week. Then the leaves began to dance all the more wildly, and suddenly the Eye was there, surging toward me just like in my dream.
+
+I threw up my arms and screamed as it swelled to twice my height and crashed into me, swallowed me. And then the wind died, and the leaves drifted harmlessly to the ground. Someone, I don’t know who, tried to ask if I was OK, but I batted away their hand and dashed up to my apartment.
+
+Mike hadn’t answered my last few e-mails, and wasn’t answering the phone.
+
+I got in my car and drove to Cumberland.
+
+
+
+I don’t know what I was hoping to find at Mike’s apartment. Once the initial shock of the encounter back at my place had worn off, I’d fixated on the fact that I hadn’t heard from Mike in a couple of days. I’d started my drive thinking Mike might be able to help me. I ended it afraid he might need my help. If it wasn’t too late.
+
+I pounded on Mike’s door, hollering for him to come and open up, but there was no answer. When I tried calling his cell phone, it  went straight to voice mail. Before I left I tried the doorknob. To my surprise, it was unlocked and the door swung open.
+
+It was dark inside. As I stood in the doorway, I smelled the faint odor of rotting trash. I stepped through the door and fumbled around for the light switch, but when I flipped it, nothing happened. As my eyes adjusted, however, the light coming in from the hallway was enough to let me see that something was seriously wrong.
+
+Mike’s bedroom furniture was heaped in the living room. Papers were strewn everywhere: on the table and counters, and all across the floor. And not just printer paper and notebook leaves, but even pages torn from books and magazines. I picked up one sheet and found it covered with sketches of the Eye, and endless repetitions of the equation used to generate it. All the papers were like that.
+
+As I went deeper into the apartment, the foul odor I’d detected upon entry became stronger and more complex. There was rotting trash, but also the smell of paint, and something else, a wet, metallic smell it took me a moment to place. The smell of blood.
+
+I stood there in the darkness, trying to decide what to do. No one would blame me for calling the police, I thought. Really, I probably should have. But then I heard a sound, very faint, coming from further inside. Metal scraping on metal.
+
+Skrrrrrrrrritch.
+
+Skrrrrrrrrritch.
+
+It was coming from Mike’s bedroom.
+
+I went to the bedroom door, where the odors of paint and blood were thick in the air, thick enough to make me feel lightheaded and unsettle my stomach.
+
+I reached for the doorknob, then paused as I heard another sound from inside the room.
+
+“I see the Eye, and the Eye sees me,” Mike sang quietly. “God damn the Eye, and God damn me.”
+
+He repeated the line a few more times, then stopped and called out: “Come in, Eric.”
+
+Almost against my will, I opened the door.
+
+As dark as the apartment was, looking into the bedroom was like staring into a void. The last glimmers of light from the hallway were enough to let me see that Mike had painted the room black. The inside of the door, the door frame, even the floor. The carpet was still wet with paint, and squelched underfoot when I stepped into the room.
+
+“Mike?” I asked. “What’s going on?”
+
+I took another step into the room, and was overcome with vertigo. Intellectually, I knew I was in a small room, but in the total darkness, I felt like I was in some boundless space, and if I weren’t careful, I could lose myself in the blackness, or fall into an invisible yawning abyss one careless step away.
+
+The scraping noise resumed.
+
+“Mike?” I called again.
+
+“I’m sorry I got you involved in this, Eric,” Mike replied from the far corner of the room. “For what it’s worth, I didn’t know it was going to be like this.”
+
+“Mike, what are you talking about?”
+“The problem is, once you’ve seen something, there’s no way to un-see it. And once you’ve seen the Eye, it’s seen you, and it wants to see more. It always wants to see more.”
+
+“Mike, you’re not making any sense,” I said.
+
+“I tried not seeing it,” he continued.
+
+Skrrrrrrritch.
+
+“I blindfolded myself — that worked for a little while, but I couldn’t go on like that forever. I painted the room black, tried to give myself a sanctuary, but that didn’t work either.”
+
+I took another step toward Mike and stumbled as I put my foot down on something slick and squishy. It popped as I stepped on it.
+
+Skrrrrrrrritch.
+
+The noise gnawed at me. It was familiar, but I couldn’t place it.
+
+Skrrrrrrrrritch.
+
+“It was already too late,” Mike said. “It was behind my eyelids. My own eyes were betraying me.”
+
+Skrrrrrrrrrritch.
+
+I recognized the sound: Mike was sharpening a knife.
+
+“Mike,” I said slowly. “What did you do?”
+
+The sound of the blade being sharpened stopped.
+
+“I did what I had to,” he said. “I put them out.”
+
+My blood froze as I realized what I had stepped on a moment before. I started breathing faster, but the air was so foul, my head spun and I collapsed. The still-moist carpet squished under me, and my stomach heaved as I tried to tell myself it was only paint I was kneeling in.
+
+Mike sighed.
+
+“That wasn’t enough, though,” he said. “The Eye’s still in here, up in my head. I know it backwards and forwards, inside and out. And it knows me. But not for much longer.”
+
+I heard squelching footsteps cross the room to me, then a hand patted me on the shoulder.
+
+“I appreciate your concern for me, Eric,” Mike said. “But I’ve figured out what I have to do. I’m going to be OK. Really, you should be thinking about yourself.”
+
+He patted me on the shoulder again.
+
+“This is all for the best, really.”
+
+“Mike?” I cried. “Mike!”
+
+I heard a knife slicing flesh, followed by a wet, gurgling sigh. Then Mike’s body hit the floor. I tried to move, to go to my friend, but my body was paralyzed. Something hot and wet enveloped my legs.
+
+I blacked out.
+
+
+
+I awoke slowly from a dreamless sleep that left me feeling rested for the first time in weeks. And when I opened my eyes, I was staring at a blank, white ceiling. No little textures for the Eye to catch and twist, no patterns for it to hide in. I felt free.
+
+It wasn’t until I tried to sit up that I realized I was  strapped to my hospital bed. Then the memories flooded back.
+
+The doctors were the first to come to me. I asked why I was in restraints, and they told me I was a danger to myself, though they wouldn’t say why.
+
+They wanted to know what I remembered. I told them about Mike, his blacked-out room, his suicide. After that, I said, I didn’t remember anything.
+
+They told me I’d tried to burn down the apartment building. When the firefighters arrived, I’d tried to keep them away from the building, pleaded with them to let it burn, and fought with them when they didn’t listen. No one else should see what was up there, I’d told them, it was too dangerous.
+
+The police were next. They had pictures of Mike, of his apartment. They had some of his papers. When I saw one of Mike’s sketches of the Eye, I recoiled. They wanted to know what sort of cult we were in, whether we’d been taking drugs, who else was involved.
+
+I tried to explain. I begged them to destroy the papers, destroy Mike’s computer, my computer, even the Book of the Eye. I told them to find Professor Grechi–he could explain.
+
+The detectives rolled their eyes as I told them about alien minds and ancient symbols. One of them left the room for a bit; when he came back, he told me the university had no record of a visiting Professor Grechi, and that the Book of the Eye had been stolen from the rare books collection twenty years ago.
+
+Before they left, they said they’d be charging me with arson and assault. They hadn’t decided yet whether to charge me with Mike’s death.
+
+I lay there for the rest of the day, alternately dozing and staring at the ceiling. I asked the doctors to take my restraints off, but given what had happened to Mike, and the story I was telling, they refused.
+
+The police came back later that afternoon, and they brought a laptop. They’d done some research on the web, and they’d found something they wanted me to see.
+
+It was on one of the more popular video-sharing sites. It wasn’t a long clip, just a couple of minutes. It started with a black screen, then growing and surging arcs of light erupted across the field, drawing out the pattern I knew so well, and had come to fear. It zoomed through four or five iterations of the pattern, and with each one, I shrank further and further back into my bed. The last thing it showed, just for a few seconds, was the equation.
+
+It was out. The Eye was on-line.
+
+I looked at the page hit counter — the video had more than 100,000 views. A knot formed in my stomach. Then I looked at the poster ID: EricKwal93.
+
+Me.
+
+I lay there in shock as the police told me they’d found more. I’d been posting things like this all over the Internet for more than a week, they said. Questions in mathematics forums, pictures to on-line photo galleries, the video was on two or three different sites. Why, they wanted to know, had I posted this image I claimed was so “dangerous” where so many people could see it?
+
+I didn’t answer. I knew why — the dreams of me sitting in front of my computer, staring at the Eye, suddenly took on a new and horrifying significance. But I knew the police wouldn’t listen, so I didn’t speak. I just sank deeper and deeper into myself. They threatened me with more charges, but I didn’t care. It didn’t matter anymore.
+
+Eventually they left.
+
+So I stared at the ceiling. The more I stared, the more I noticed it wasn’t perfectly flat. There were imperfections in the paint job, in the surface of the drywall itself.
+
+Something was watching me.
+
+I couldn’t help myself. Almost reflexively, I started tracing the arcs, the whorls. The slightest bump or scratch fit easily into the pattern I was building.
+
+The Eye was there, staring down at me. And I was trapped beneath it.
+
+In desperation, I closed my eyes, not to sleep, but just to not see.
+
+But there was no escape. Even there, in the darkness behind my eyelids, the dancing lights coalesced into the familiar shape. I had nowhere left to hide.
+
+I’d seen the Eye; soon everyone else would, too. I tried to console myself with the knowledge that, eventually, they would understand that I wasn’t crazy.
+
+Then I started to giggle.
+
+“I see the Eye, and the Eye sees me. God damn the Eye, and God damn me.”

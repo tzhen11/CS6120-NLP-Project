@@ -1,0 +1,525 @@
+The Royal Australian Air Force C-17 Globemaster III shook through mountainous Afghan winds as it descended into a remote military airfield in the Nimruz Province. Dust clouds blanketed the landscape, and from the rear cockpit seat Harrison Peel’s stomach tightened. He had no idea how close they were to the runway. He closed his eyes until he felt the landing wheels touch and the military transport jolt to a stop.
+
+Dressed in an Aussie multicam uniform again, after he’d been dishonorably discharged nine months earlier from the Australian Army, Peel wasn’t sure what to expect when they disembarked. He’d been briefed that he was to be transported from Rawalpindi to Bagram after a botched operation in Pakistan for his new employers, the US National Security Agency. Then a rescue mission altered flight priorities.
+
+“Put this on,” Warrant Officer First Class Gary Kudjic shouted over the whine of the jet engines. The stocky soldier pushed a standard issue combat helmet, tiered body armor, and an F88 Austeyr assault rifle into Peel’s waiting arms. “Once a soldier always a soldier… Major.”
+
+“We’re expecting trouble?”
+
+The cocky red-headed warrant officer shrugged. “No one outside is responding, sir. We might need your skills.”
+
+Peel quickly kitted and followed the squad of Australian Army infantrymen beyond the confines of the C-17. The orange-red dust cloud reduced visibility to five meters in any direction: a death trap if they weren’t smart about their deployment. Despite the limited visibility, the soldiers moved as a practiced unit, rifles ready as if expecting contact with enemy combatants.
+
+Human shapes emerged as silhouettes in the thick dust clouds. Peel was prepped to double-tap any should they raise a weapon, but none did. The Aussie infantrymen ordered the enemy onto the ground, hands behind their heads. The slow-moving men obeyed without complaint.
+
+Despite the thick dust, Peel noticed their confused and delayed responses. Peel cuffed one of the enemy with a zip-lock tie, and he turned the prone man over.
+
+The man wore the same Australian Army uniform as Peel, only it crumbled apart, as did his standard issue combat helmet and body armor. If he had once held a Steyr assault rifle the weapon was long gone.
+
+The man didn’t look like an insurgent and Peel was startled. From the man’s wrinkled skin and shrunken complexion he looked ninety-years-old.
+
+
+
+Rust. It was all about rust.
+
+Ex-Australian Army sergeant Emerson James Ash grabbed the toothpick in his mouth and twirled it between the fingers of his right hand. He stared at his left arm to where the military had replaced his chipped, sophisticated prosthetic arm with a cybernetic upgrade. A stupid accident in central South Australia, and before that a small secret war in the Horn of Africa, had led him down a disastrous path. The deformity was one thing, but the arm was also a symbol of his denied right to a peaceful life with Amye. An accident, a death, and a reassignment to the reserve list—the artificial arm would always remind him of so much he had lost.
+
+All of that was behind him now, or so he liked to tell himself, and yet here he was again at the military’s beck-and-call. He understood how a prostitute felt when faced with the alternatives their pimp would offer. It sickened Emerson.
+
+To distract himself, he contemplated the intelligence report and shook his head. Emerson had spent the entire day analyzing a series of Special Operations Task Group photo images of rust, and wondered why.
+
+The disintegrated contraption in the digital image was a US Air Force McDonnell Douglas F-15E Strike Eagle. The multi-role fighter jet was gutted from nose tip to engine exhaust, destroyed by severe corrosion. According to the accompanying reports, the Strike Eagle had lifted off from Bagram Airfield at 06:40 hours yesterday local Afghan time and flown southwest into Afghanistan’s Nimruz Province, a most remote and inhospitable area, to bomb a recently identified Taliban stronghold.
+
+It never made it.
+
+The F-15E had fallen from the sky as a rusted contraption, crashed into the desert, and disintegrated into five large pieces and a thousand smaller shrapnel fragments. The two pilots had been flayed of their skin, flesh, organs, and muscle, and nothing more than dried bones, disintegrated flight uniforms, and G-suits remained. Emerson had been tasked with analyzing, and then prepping, an accurate assessment of what had caused the destruction, using his ‘special threat’ experience he had gained in Somalia.
+
+He had nothing.
+
+He stared out his window. There was so much going on in the world, some of it so bizarre, and yet he felt so disconnected from it. The new intelligence job wasn’t quite what he’d hoped, but it provided a steady income, and Canberra was about as boring a place as you could find in mainland Australia. At least what the job lacked, the local Irish pub in town, The King, or ‘O’Malley’s’, made up for after work. Canberra really did come alive after dark, and the pub, frequented by ex-military guys like himself, had a constant turnover of fresh Australian National University short-haired, sophisticated women with their superior ‘I’m-so-clever-and-wearing-librarian’s glasses stare’. But the ANU locals were more than willing to hear a story or two.
+
+“You look bored, Emerson.”
+
+The analyst looked up at his supervisor and smiled. He’d been distracted again, and realized that he was unable to keep his mind on his assigned task.
+
+“Not bored,” he said, “just… I don’t know… I’m a cyber-analyst and these Intelligence reports are fine, but…”
+
+The senior civilian intelligence analyst, whose name was Peter Morrissey but insisted on being referred by his last name only, even amongst friends, laughed. “I understand.” He waved Emerson’s comments aside and smiled. “That implant of yours still work?” Morrissey stared at Emerson’s left arm.
+
+Emerson frowned at the reference to his implant and nodded, unsure why the man would bring up his disability.
+
+“I wanted you to know I’ve put your name forward for Afghanistan.”
+
+Emerson’s throat tightened. He swallowed hard. “Me?”
+
+“Don’t you want to be involved in an Information Security survey of Afghanistan?”
+
+Emerson straightened in his chair and struggled to hide the enthusiastic smile. With his disability he’d thought fieldwork an impossibility. “You’re kidding?”
+
+“Nope.”
+
+Emerson grinned. Information Security meant Cyber! Now that was right up his specialization! Not rust, but something he understood without thought. “When?”
+
+“Tomorrow morning. The civvy that was supposed to go pulled out because of wife issues. We’ve made some allowances, given your military currency…” The man laughed again. “And your obvious skills.”
+
+Emerson wanted to laugh, but instead he shifted uncomfortably at the mention of ‘wife issues’ after what had happened to Amye. “Say the word and I’m there,” he said.
+
+“It’s related,” Morrissey pointed to the corroded wreck of the F-15E on Emerson’s flat screen. “You don’t think we wasted your time today, by having you go over that report as a time-filler?”
+
+And suddenly Emerson didn’t think that they had.
+
+
+
+In a closed wing of the Heathe N. Craig Joint Theater Hospital, well within the secure confines of Bagram Airfield, Peel and Warrant Officer Kudjic watched as the old, confused soldiers wriggled in their beds. The few survivors had drips in their arms now. DNA and fingerprint analysis confirmed the men were Royal Australian Regiment soldiers on a routine patrol. The men should have been in their twenties, thirties at most. Dementia stopped any of them recalling the weapon that had hit them.
+
+“Do you know what caused this, Major?” asked Kudjic.
+
+Peel looked at the man’s solid Bagram-supplement-fed frame and wished he had guns half as massive as the warrant officer. “It’s Harrison Peel, remember, I’m here as a civilian consultant.”
+
+“You’re Mitchell Peel’s nephew, right? You’re just like him now.”
+
+Peel nodded, and remembered his uncle, the civil servant who’d dedicated a career to the Department of Defence, and his dogged steadfastness had inspired Peel to enlist for patriotic duty when he was a young man.
+
+“I worked with him years ago, your uncle. He was a legend.”
+
+“You speak of Mitch like he’s dead.”
+
+Kudjic looked surprised. “Is he, sir?”
+
+“No, retired.”
+
+“Yes sir. Glad to hear.” His face shone with admiration. “Can I ask? I’ve heard stories about what you did in Pakistan’s Federally Administered Tribal Areas.”
+
+Peel ignored the warrant officer’s blatant probe into his latest covert operation and looked back to the dying old men. They had years at most, not the decades or half centuries promised to soldiers who survived the theater of war. “They’ve been aged artificially,” said Peel.
+
+“Chemical or biological weapons, or something else?” Kudjic raised an eyebrow and hinted to something, but Peel was determined not to rise to the bait.
+
+“Something else… Their clothes and equipment have also been aged.”
+
+Kudjic seemed angry and shook his head. “It makes no sense.” He thrust a report at Peel. “I was told to give you this and inform you I’m Code-89 cleared.”
+
+Peel smiled at the man. Code-89 meant that Kudjic also had the security clearance to discuss alien threats and other dimensional anomalies that sometimes plagued the various corners of the Earth. It was Peel’s specialty, putting down such ‘specific threats’. A means to age people artificially certainly fit the mandate. No wonder they had been paired up.
+
+“Did you know your uncle was Code-89 cleared?”
+
+Surprised, Peel raised an eyebrow. He hadn’t known, and suddenly so much made a lot of sense. Not getting married, the unhappiness and keeping himself distant from those he supposedly cared about. That doggedness to fight back was Peel all over too, doubly so ever since his first ‘special threat’ experience against a horror that made no rational sense in the human world. No wonder Uncle Mitch had been reluctant for Peel to enlist—he hadn’t wanted his nephew to end up like him.
+
+Peel felt a tang of regret. He was angry that the Army had discarded him so easily after he had saved Sydney from a Code-89 threat known as a shoggoth, admittedly by using a nuclear weapon to do so. Casualties had been high and he’d paid for that. He’d told himself later he didn’t need the military anymore, that he’d moved on, but now he was back, he had to acknowledge how much he missed this life.
+
+Peel scrolled the daily Code-89 Intelligence Summary and noted the mention of a super-weapon in the daily theatre reporting from Afghanistan. The word karez, or ancient underground aqueducts, stood out and he sighed: the local US Marine detachment, or the Brits, would jump on it because karez were the supply tunnels that allowed insurgents to move around the countryside unseen. Coalition forces would scour the road from Kajaki to Musa Qala, checking as many of the aqueducts in use by local insurgents to transport people or equipment until they were satisfied that no super-weapons were hidden down there. Peel considered if this was the same device that artificially aged soldiers.
+
+“I heard you were in Rawalpindi looking for WMDs that might have fallen into the hands of the Taliban.”
+
+Kudjic wouldn’t give up, and again Peel ignored him. He handed back the report.
+
+“Did you find any, sir? WMDs?”
+
+“Weapons of Mass Destruction? Of course.” Peel nodded, answering his own question. “Now drop it, Warrant Officer. I can’t talk about what I did, and it’s not related.”
+
+“Well, I think you’ve just found another one.”
+
+Footsteps echoed down the hospital corridor. Peel turned and faced four US Marines. They halted next to him and Kudjic. Peel stood tall and tried to not look surprised by the unusual visit.
+
+“Major Peel, we’ve spoken to the Australian Liaison Officer posted to Camp Bastion. He’s obtained permission through your NSA seniors for your involvement on a specific mission against a credible threat. It’s related to what happened to those poor soldiers.”
+
+Peel smiled at the use of his military title again, and his ears pricked up at the mention of a ‘specific threat’. It was another NSA/Five Eyes code for a special compartmented mission outside of normal channels.
+
+He looked at the full Colonel’s bird on the lead Marine’s shoulder and decided to err on the side of caution and not be so bold. In the past, his flippant Australian attitude to rank had cost him. “Colonel Patterson?” he read the name off the officer’s pocket stitch.
+
+Patterson grinned. “I take it the Warrant Officer has briefed you?” His nod indicted Gary Kudjic.
+
+“We’ve covered the basics, sir.”
+
+“I was told that as an Aussie, and a certain major with your ‘contacts’ you’d be interested in this mission to Kajaki. It has all of the artifacts of your specialization. Fourteen-hundred hours in the main briefing room for a combined J2, J3, J5 brief, and then a separate compartmented J25X briefing before you fly out.”
+
+Peel closed his eyes and smiled. After his botched operation in Pakistan he thought he was on his way home in disgrace. But his NSA superiors had thought differently by assigning him this mission. Someone back home in Australia had likely also pulled some strings, otherwise he would have been paired up with the Americans.
+
+“It’s a joint USMC-SOTG operation, and we want you to lead it.”
+
+That meant he was back in uniform, at least until the mission concluded. He couldn’t be sure if this was a good or bad outcome: an acknowledgement he shouldn’t have been discharged in the first place, or an exercise to rub in his face again what he had lost. Either way, his future was laid out before him.
+
+“Thank you, Colonel.”
+
+
+
+The Transit Center at Manas was not in Afghanistan, but as far as Emerson Ash was concerned, it might as well be. Kyrgyzstan Republic was land-locked in the heart of Central Asia and featured nothing that could pass as modern infrastructure. He couldn’t walk the local streets and presume to be safe, or expect the mod-cons found back home.
+
+Emerson figured that until he shipped to Bagram Airfield he would lose himself in his work, and spent the day on a secure login into the Five Eyes nations’ shared Intelpedia. He scoured Taliban websites for any clues to their latest activities and downloaded pertinent information into his implant. Search words including ‘rust’, ‘corrosion’ and ‘skin flaying’ brought up nothing, in English or Arabic. His frustration doubled because he only had one biological arm, and despite its electronic componentry, his prosthetic wasn’t equipped to touch-type as fast as real fingers once could. He cursed. Every search took longer than it needed.
+
+It was only when he slowly typed in the word ‘time’ he got a hit from a cell operating from Zaranj, the capital of Afghanistan’s Nimruz Province.
+
+The senior insurgent who led the cell boldly pronounced himself online as Ahmad Komdani, and boasted he had recently recovered a weapon from an unspecified location referred to as the Holy Temple of Yog-Sothoth. Komdani bragged he could accelerate time and that time was his to command. When Emerson read that the priest claimed to have shot down a US fighter jet with his holy weapon, he knew he had a match.
+
+Back on Intelpedia, Emerson searched on ‘Yog-Sothoth’. He received a thousand-plus hits, but all were classified above his security clearance. So high that if he kept probing, soon he would be detained for questioning. He considered the risks: would interrogation for a couple of days be so bad if he also uncovered a dangerous Taliban-funded insurgent cell, and then put it down?
+
+Not to be deterred, and because he was a cyber-analyst and these things were expected of him, he executed a few stored programs from his implant, and electronically probed a few back doors until he discovered why he couldn’t access the information. Code-89 clearance flashed up, which he didn’t have. He didn’t know what that meant.
+
+“Emerson Ash?”
+
+Emerson faced the Marine who’d just entered the office Emerson had commandeered for the day and nodded. He wondered if he’d already set off virtual alarm bells, and this solider was his interrogator.
+
+“You’re the cyber civvy?”
+
+“Yes, Sergeant.”
+
+“The transport is ready to take you out to Camp Bastion.”
+
+Emerson sighed with relief over not having been detected and frowned. He looked at his watch. They were five hours early, and the destination was wrong. “Helmand Province? What have the Brits got to do with this? I thought—”
+
+“Do as you’re told. Can you do that? Or have you forgotten what it was like to follow military orders, Sergeant?”
+
+“No,” said Emerson.
+
+“You’re military,” said the Marine sergeant with more force this time, “you can’t just take your uniform off and be someone else, hide behind civilian clothes!”
+
+“I can, and I’m not hiding,” said Emerson. Anger forced him to his feet. “I’m ex-military now.” He stated it clearly as if for official record keeping, and considered he might be over reacting because he was afraid he may have been caught looking into secrets he shouldn’t have.
+
+“You’re military from where we stand, son.”
+
+“But I finished my tour. I changed my life.”
+
+“Sure. Good for you. When did this miracle happen?”
+
+Emerson closed his eyes, fighting the darkness that seemed to envelop him from nowhere. “Months ago.”
+
+A Marine corporal entered the office, Suleiman by his patch. He stepped forward and interrupted. “Sergeant Ash was here during the last rotation in place, sergeant.” Suleiman stared at Emerson. “I remember you, Sergeant: you’ve got the implanted arm.”
+
+Emerson raised his left arm. The prosthetic had served him well except when it came to typing, or cooking, or gardening, or any other fine motor control task. “Yeah, that’s me, so what?”
+
+“This should be fun during your force prep briefings.” The sergeant laughed. “Civvy and an ex-sergeant.”
+
+
+
+In a secure briefing room in Camp Bastion, with the muffled sounds of insurgent artillery shells pounding their outer defenses, Peel looked out across the expanse of a half-dozen Australian Army Special Operations Task Group soldiers. An equal number of US Marines Corps stood nearby, and Peel prepared to brief the joint USMC-SOTG operation.
+
+Colonel Chester Patterson stood toward the back, and although nothing had been said, he was assessing Peel. Worse, perhaps, Peel was again in his major’s uniform. They were turning him into a soldier after they’d simultaneously disowned him. He understood they called him back because of his expertise. Publicly the rank would be retracted after the mission, because Peel was the soldier who had detonated a nuke in Sydney Harbour to destroy an alien monster about to raze the city. The day had been saved, and he became the scapegoat. He wondered what his Uncle Mitchell would have said if he’d known Peel’s history for the last couple of years. Would he be disappointed, or proud? It was hard to know in the shadow world of Code-89 black ops, where good and evil were continuously blurred concepts.
+
+Peel ran the PowerPoint presentation and showed the maps of Nimruz Province, known and suspected routes of the local karez, scant details on the cell leader Ahmad Komdani, photographs of the aged soldiers, and new intelligence of a rusted Strike Eagle that had literally aged hundreds of years in flight.
+
+“What caused that kind of destruction,” asked a lance corporal from the Marine contingent, “sir?”
+
+Peel took a deep breath and silently thanked fate that all these men were Code-89 cleared, all except one, but that was only a formality soon to be rectified. “We think it’s some kind of ESB super-weapon, one that accelerates time.”
+
+“ESB?” asked the only other civilian in the room, a former Australian Army sergeant turned cyber-analyst who had prepared much of the report Peel was now delivering. “I’m not familiar with the terminology, sir?”
+
+“Extra-terrestrial Sentient Being, Sergeant Ash.”
+
+The man nodded and scratched his chin with his prosthetic arm.
+
+Later, after the briefing was concluded and the men were prepping final mission checks on the two Humvees, Peel sought out Ash.
+
+“That was some detailed report you put together, Sergeant?”
+
+“I’m no longer a sergeant, sir.”
+
+“And I’m no longer a major, but here we are.”
+
+Ash looked away. “The world always wants to be complicated.”
+
+“You don’t have to call me sir either, at least not outside the confines of this mission.”
+
+Ash was about to say ‘yes sir’ but nodded instead.
+
+Peel sensed something troubled the man, but he couldn’t guess and probed. “You lost that arm in Somalia?”
+
+Ash laughed without humor. “Nothing so grand, an accident back home in Stirling North. You know where that is? Up near Port Augusta in South Australia?”
+
+“Never been there,” said Peel.
+
+“I was showing off to a girl, on a tractor, and fell under the towed harvester. The army became my life.”
+
+“Did you impress the girl?” Peel asked.
+
+The man half-laughed, half-frowned. “Not for long enough.”
+
+Peel nodded, convinced there was more than Ash let on. “You ready for this mission?”
+
+The cyber-analyst shrugged. “As ready as you can be. I mean, we don’t really know what we’re up against.”
+
+“No, we don’t,” reflected Peel. “But that’s why we’re along for the ride. We’re the Intel boys. Of everyone on the mission, when the shit hits the fan, we’re the ones they’ll turn to for answers.”
+
+“I guess so.”
+
+Peel turned to prep himself, then paused. “Ash, for the record, you’re Code-89 cleared now. Those files you wanted to access yesterday? Well, now you can.”
+
+Ash hesitated. “You knew about that? And how I lost my arm?”
+
+“Yes. I wanted to see what you’d tell me.”
+
+Peel didn’t say he’d known Ash’s girlfriend, Amye, was only a short-lived relationship because she had died under unusual and horrific circumstances. Even in the civvy world, Code-89 events happened.
+
+As Peel walked from the former sergeant, he hoped Ash could hold it together long enough to see this mission through. If he did he might find some closure.
+
+
+
+The Humvees rumbled south. Beyond the confines of the base and demilitarized zones it started to rain and Emerson spotted opium crops mixed with farming plots, donkeys and camels in and around the fields. It was not at all how he imagined Afghanistan would be: lush and green with few trees.
+
+The terrain became mountainous until they were close to their target karez entry point, and approached farmers with donkeys. But the farmers pulled assault rifles and hand-held rocket launchers from behind their cloaks and beasts of burden. They engaged the first Humvee, but none hit.
+
+In automatic response the Marine gunners let loose with their M134 Miniguns, hundreds of 7.62 mm rounds expelled from the six-barreled machine guns in under a minute, and made quick work of the enemy. The insurgents’ dance of death was disturbing and short lived, and painted with the red splashes of their final blood.
+
+The lead Humvee seemed to melt into a brown discoloration and then disintegrated into rust. Bones of soldiers and fragmented uniforms fell with the crumbling chassis. Half their team lost to a single attack.
+
+“Out of the vehicle!” Peel commanded. “Spread out, defensive positions and return fire.”
+
+The Marines and Aussie soldiers moved quickly as ordered. On his feet and moving fast, Emerson couldn’t see the weapon that had hit the other truck, and he half expected to age suddenly and die an old man. Instead he found himself disorientated in a field of three or so meter-high grass. It hadn’t been there a moment ago. He couldn’t see more than a couple of meters in any direction.
+
+He heard gunfire, the high-pitched calls of the insurgents, and then… grunting?
+
+Emerson raised his Steyr and advanced cautiously. He stumbled onto a clearing. In its midst were three men, a woman and a couple of children, each with a hairy body, sloping skull, and muscles over a dense body frame. He’d never seen their physiology. They had a fire lit and were cooking a large slab of meat. They grunted wildly at him, raised primitive spears at him. He was about to shoot, but changed his mind. They were terrified and confused, and protective of their infants. These weren’t insurgents.
+
+Emerson disappeared back into the grass.
+
+“This is Ash.” He spoke quickly into his comms piece. “Civvies in the grass, repeat, civvies in the grass.” He gave their numbers and coordinates.
+
+“Copy that,” echoed Peel. “All teams move backward along these coordinates.” He provided a compass bearing. “The insurgents can’t see us. We have cover.”
+
+“Copy that,” said Warrant Officer Gary Kudjic over the comms. “Where did the grass come from, sir?”
+
+“Don’t know, but it’s just saved our lives.”
+
+Emerson moved quickly along the path Peel had provided. Within a few hundred meters he stepped out into open rocky ground. The line between grass and rock was sudden and abrupt, and not at all natural. Three Marines and two SOTG soldiers were congregating with Peel, moving to higher ground to secure cover behind the higher rocky outcrops.
+
+An insurgent emerged from the grass and fired his AK-47 wide. Warrant Officer Kudjic stepped out and returned fire. The insurgent was hit, rolled down the slope toward Ash, and lay, still conscious, in a pool of his own blood. He tried to raise his Russian assault rifle and fire it again.
+
+“Put him out of his misery, Ash.”
+
+“I can’t.” He didn’t know why, but since his accident, and the loss of Amye, the reminder of what he’d lost overwhelmed him. “I’m a civilian,” he offered by way of explanation.
+
+Kudjic aimed his rifle and put a bullet into the insurgent’s head. He leaned close.
+
+Ash could smell his foul breath, and see the man needed his eyebrows plucked.
+
+“Want to die, Mister Ash?”
+
+“No, sir.”
+
+“Then use your weapon when commanded. I know you’re still current with a Steyr.”
+
+Ash nodded; it was true that he’d fired the weapon recently before he’d left the military. “I’m a non-combatant.”
+
+“Yep, right you are, Mister Ash, but when the insurgents come down this valley, I don’t think they’ll care what you are. You on the inactive reserve list?”
+
+Ash nodded; he had three more years to give them.
+
+“Then consider yourself back in the military, and we might still get out of this alive.”
+
+Ash readied his weapon, as if he’d never left the military: he checked the weapon’s safety, cocked it, locked the working parts, and twisted the barrel assembly off.
+
+The man picked up the expelled round and brushed off the sand on his uniform. “No need for a safety check, Mister Ash, but well done. You’ll want a round in the chamber at all times.”
+
+Ash closed his eyes and nodded for a brief moment, but when he opened them the Australian and Marine troops were striding forward up the hill with their weapons aimed.
+
+They were about fifty meters above the valley, protected by a rocky outcrop, and Emerson looked down into the ambush site they’d left. It resembled a dollar coin: a large circular patch of tall grass perhaps half a kilometer across had materialized from nowhere around the Humvees. The insurgents were in the thick of it and had discovered the good Humvee. They wasted no time and destroyed it with homemade bombs.
+
+“Take them out, Corporal Riker,” Peel commanded their Marine sniper.
+
+Riker lined up his USMC Designated Marksman Rifle on the rock, and one by one put a bullet in all the insurgents. In less than thirty seconds the enemy was dead.
+
+Emerson noticed a confused group of men, women and children, emerging from the grasslands on the far side, fifteen hairy individuals in total not including toddlers, of which there were half a dozen. All wore animals skins, were stocky and hardy-looking. They brandished spears and appeared to be completely lost and bewildered. They didn’t move like normal humans would.
+
+“Ten o’clock, sir,” Riker reported the group to Peel. “Do I take them out too?”
+
+“Wait!” yelled Emerson. “They aren’t our enemy.”
+
+Peel lifted binoculars, took a closer look. “Maybe not, Ash, but I have no idea who they might be.”
+
+“I do,” said Emerson. He felt odd disclosing the impossibility. “They’re Neanderthals.”
+
+
+
+The USMC-SOTG descended again into the valley, and the grass and Neanderthals vanished without them noticing the transition. It was as if they had never been.
+
+They were more exposed now, but so too would any insurgents be. Peel saw no signs of survivors but he ordered a quick recon of the immediate area.
+
+Ash stepped forward. “Sir, what’s going on?”
+
+Peel shrugged, suspecting far more than he was willing to share. “Some kind of time weapon. Whoever used it, the output in this instance was to project a moment of history from tens of thousands of years ago. But it didn’t stick.”
+
+“The same kind of weapon that took down the Strike Eagle? It has more capabilities than I thought.”
+
+Peel grinned, but he didn’t feel good about the situation. “That’s the problem with ‘special threats’, they never make any sense.”
+
+Corporal Riker returned, snapped off a salute. “Sir, we found an entry into the aqueduct. We think that is where the insurgents disappear into.”
+
+“Good work, Corporal. Prep the men to enter.”
+
+“Sir, what about potential insurgents still up here?” asked Riker.
+
+“You’re right. You and your team form a perimeter around this aqueduct. Nobody goes in or out until we return. You deal with the insurgents, but this is too important.”
+
+“The super-weapon—”
+
+“—will have returned with its operator into the underground,” Peel finished Riker’s sentence for him, then glanced at Emerson. “Sergeant Ash, you’re with me. You too, Warrant Officer Kudjic and Corporal Suleiman.” He turned and strode toward the dark aqueduct, stooped, and then marched in with his Steyr ready.
+
+The tunnel was dark and long, shaped like an inverted V and cut from the rock by hand. He switched on his magi light, a small LED torch, and proceeded cautiously. Within a hundred meters they were knee-deep in chilly water, and the tunnels were very narrow, making it near impossible to move past each other should they need to. There was no option but to proceed.
+
+Hundreds of meters in, and trying not to be obvious, Peel glanced back to ensure Ash, Kudjic and Suleiman were still with him. The thought of being down here alone was not a comforting one.
+
+A flash-charged stream of iridescent bubbles sped along the tunnel right at them. It moved just slow enough for Peel to duck, but behind him, Ash caught the beam weapon straight in the face.
+
+
+
+“Morning, Emerson, my love, beautiful day out.”
+
+Emerson frowned. “Amye?” He sat up in the warm bed and admired her short, racy red negligee. “What are you doing here?”
+
+She frowned back at him and then laughed. “Forgotten already? It’s the day after our wedding.” She held up her hand and admired the diamond ring next to her wedding band. “Mrs. Amye Ash, at last,” she said. “Will you ever stop teasing me?”
+
+He glanced down at the wedding band on his finger and his heart leapt—the ring was on the finger of his left hand. He held it up, clenched his hand into a fist. How was his hand and arm normal again? He frowned at her. “This is a dream.”
+
+She laughed again. “Sorry, you’re stuck with me!”
+
+“But you died … the Chthonians …”
+
+She pouted and walked over to the bed. “No, I’m here. Touch me again, I’m real enough.”
+
+Emerson closed his eyes with joy. Had the other thoughts been PTSD? Had there ever been an Afghanistan, a crippled arm, and a fight at the Horn? Had he never raced Damien on the tractor and fallen? Hearing Amye laugh, he opened his eyes to ask her.
+
+But instead she faded from view—
+
+—He was drenched, in the dark, smothered by cold water splashing on his face and filling his mouth. He was wrenched upward, disorientated. Beams of light spilled everywhere, turned in circles over and over again. He heard gunfire, the controlled burst from a Steyr. The noise was deafening in this confined space.
+
+Suleiman had him in his arms and lifted him up.
+
+“What happened?” he finally spurted.
+
+“We were attacked,” said Corporal Suleiman. “The major and warrant officer are returning fire.”
+
+On his feet, steady again, Ash readied his weapon, certain he would use it any moment now.
+
+He realized how easily he gripped his weapon, and how seeing Amye again had given him renewed confidence.
+
+The arm, the cybernetic attachment, had changed. Fused with his flesh, it had more moving parts —like it was forged from metallic muscle. He flexed his fingers, opened and closed his fist. The arm was metal: chrome, and circuits ran along his skin like electronic veins. The point where metal and flesh merged was blurred, and the interface screen was as flexible as the rest of his new attachment. It looked as if it was made from liquid mercury, but upon touching it, he realized the artificial arm was solid enough.
+
+Ash had no idea how this had happened.
+
+Words flashed up on the screen: Time weapon accelerated your arm into a future version of itself.
+
+An upgrade? Ash mentally asked.
+
+Yes. An upgrade, replied the screen.
+
+The gunfire ceased. Ash looked up to see Kudjic pounding down the tunnel toward them, back from where Peel had disappeared. “All clear,” he reported through panted breath. “The major is waiting for us, in a cave opening.”
+
+“What’s he found?” asked Suleiman.
+
+“You won’t fucking believe it, and I can’t find the words to describe it.”
+
+
+
+The vast chamber was cut square from ancient stone. Disfigured and decapitated icons of Buddha lined many alcoves on the western and eastern walls, the faces replaced with new stone blocks of roughly carved animalistic gods. One was an eyeless, tentacled face resembling an octopus. Another was nothing more than a vast tongue. Another, a wriggling mass of tentacles and teeth arranged chaotically. Peel knew where he was, Emerson Ash’s Temple of Yog-Sothoth. These effigies were the war gods of men, found in the alien dimensions that intersected the human universe, and as real as he was.
+
+The ground too was unsettling, a quilt work mosaic of corpses, the legacy of the temporal weapon abuse from a bygone era. A bloody battle had occurred here perhaps a thousand years ago, during the Crusades. Templar knights and their horses lay butchered and bloody in equal number amongst fallen Oriental foot soldiers with their broken spears and split round shields. All were dead, and freshly killed. It seemed they had only finished their battle minutes before Peel had arrived.
+
+But the statues and the medieval corpses were the least of Peel’s problems. He switched over a fresh clip into his Steyr and advanced upon the one living man in the temple, Ahmad Komdani. The insurgent had suffered a bullet wound in his leg that was slowly bleeding out, but that was not his most alarming feature. He looked to have been splashed with paint, but one colored with old age. Like zebra stripes, half his face was thirty-something, the other ninety-something.
+
+Around Komdani’s left forearm a conglomerate of bubbles had coalesced, colored like oil on water. They rose and popped, all of different sizes but they never burst fast enough to reveal the arm beneath, if an arm still remained. Some bubbles floated away, but not very far before they vanished.
+
+“Beware, infidel,” the man spoke in Arabic, “for I am the High Priest of Yog-Sothoth, the Keeper and Renderer of the Gate between time and…”
+
+He raised his arm like a weapon toward Peel.
+
+Peel immediately applied the Mozambique drill, a double-tap in the chest followed by a single bullet to the head, and Komdani went down as his blood sprayed everywhere.
+
+Peel half-expected the insurgent to stand again, with the temporal weapon still alive and functional on his arm. But he never moved.
+
+He recognized the men enter the temple behind him.
+
+“What the fuck happened here?” raged Suleiman. One of the crusaders twitched, so the soldier put a bullet into him.
+
+“We found the weapon.” Peel pointed to the oozing bubbles affixed to the dead insurgent’s arm.
+
+“What do we do with it?” asked Ash, beside Peel.
+
+Peel smiled because Ash’s face was filled with awe and wonder. He looked like he had finally found his confidence.
+
+“Look what it did to my arm!” he shouted in an elated tone. “And it took me back to Amye. If we can work out how to use it, well, who knows what is possible?”
+
+Furious, Peel gripped Ash and dragged him closer to Komdani. “But see what it did to him. He couldn’t control it. Never, even when he was taking down our Strike Eagle and Humvees.”
+
+Ash shuddered. “Sorry sir, you’re right. It’s just…”
+
+“You saw a way to go back, right? And you wanted it?”
+
+Emerson Ash nodded. He had turned pale again. Relief was only ever short-lived.
+
+“It’s a false hope, Emerson. Now that you are one of us, Code-89, I can only give you one piece of advice if you want to survive for the long haul. Don’t embrace any of this. It will consume you, control you, even end your life.”
+
+“I saw Amye, and the life we could have had.”
+
+Peel gripped Ash by the arm, shaking him so he would focus on what Peel was about to say. “I want to go back too. This week, I realized how much I missed being in the Army, and how betrayed I felt when they dishonorably discharged me. I’m going to regret going home, knowing that I’m likely never to put on this uniform again. But I can’t change any of that. I just have to accept it, and move on.”
+
+Emerson massaged his temple. He looked distraught, which was not surprising for a man who had held in so much hurt for so long.
+
+“You’re right, Peel, and I’m sorry. I lost it there for a moment.”
+
+“We all do, from time to time. We just have to remember who we are, and what we’re fighting.”
+
+Ash released himself from Peel’s grip. “It won’t happen again, sir.”
+
+“Good to hear.” Peel turned to Kudjic and Suleiman. “I want charges laid at all the structural points. I want to bring this temple down, bury it forever. Set them for five minutes.”
+
+“Yes sir,” they responded in unison, and got to work.
+
+
+
+Above ground, they identified the sinkhole where there had once been a cave, a temple, and an alien weapon of mass destruction. Peel hoped that it would remain buried for his lifetime at least.
+
+The USMC-SOTG reassembled, and Riker reported he had taken out a further dozen insurgents that had approached, but there were no casualties or wounded on their side, and the surviving insurgents had fled. The fight, it seemed, had left them now that their leader and his super-weapon had gone.
+
+A US Air Force C130 Hercules flew low over their position, before a Massive Ordnance Air Blast bomb was dropped into the sinkhole. Peel had called in the airstrike, deliberately lying to his superiors by stating that the super-weapon had been destroyed and thus was unrecoverable. The MOAB hit the sinkhole and the devastation was impressive. The fire cloud seemed to fill the horizon and the deafening noise sounded like a volcano had erupted nearby. Any insurgents still in the tunnels would have been incinerated.
+
+Their job done, it was now merely a matter of waiting for the US Marine Blackhawks to find them and fly them back to Camp Bastion.
+
+“Do you think we destroyed the weapon?” Ash asked Peel, who was guzzling from his canteen and biting into an MRE, beef teriyaki. The come-down from an operation left a lot of soldiers hungry who had been starving themselves until then, and the major was no exception.
+
+Peel shook his head. “I doubt it, but we’ll bury it for a good time.”
+
+“I’ve heard there is a department in the Pentagon, researching and developing new weapons based on ESB artifacts recovered in the field. If they find out we were deliberate…”
+
+“They won’t find out,” countered Peel forcefully. “Would you want that thing fused to your arm?”
+
+Emerson shook his head. “The weapon was destroyed, sir, during engagement with the enemy.”
+
+Peel grinned. “Speaking of arms, how is that new arm of yours?”
+
+Emerson made a fist, twisted and flexed the muscles. “I think it’s from the future. I think it’s advanced human tech.”
+
+“Well, I hope it sticks.”
+
+“I hope so too.”
+
+The two men looked at the devastation, to a dark cloud of black smoke that filled the sky. It would linger for many days to come.
+
+“What’s next for you, Peel?” Ash said, reverting to civvy nomenclature.
+
+“Back to the States and a new assignment with the NSA; I’ve been in Afghanistan long enough. What about you? Staying?”
+
+Emerson nodded. “I’ve still got a cyber-survey to complete.”
+
+“Good for you.”
+
+Peel wandered away to the rest of his men, prepping them for their extraction.
+
+Kudjic saw Peel approach, stood and saluted.
+
+“Kudjic thanks you for your help today.”
+
+“A pleasure, sir.”
+
+“We need investigators in the NSA, for ‘special threat’ kind of work if you are interested?”
+
+The cocky warrant officer grinned. “I’d like that, sir.”
+
+“You can stop calling me sir, too. This is the last day I wear this uniform.”
+
+Kudjic grinned. “You remember, how I mentioned your Uncle Mitchell, when all this started?”
+
+“I do,” Peel responded cautiously.
+
+“You know he saved you after your Sydney disaster? Without him, your punishment would have been much worse.”
+
+Peel didn’t know what to say and digested Kudjic’s words.
+
+“You should go see him, when you get the chance, sir—and this is the last time I’ll refer to you by your military rank now you’re a civvy again too—but never forget, once in the forces, we always look after our own.”
