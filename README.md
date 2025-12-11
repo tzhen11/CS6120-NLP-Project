@@ -58,12 +58,15 @@ Topics focused on settings and entities (ancient ruins, dreamlands, eldritch hor
 
 ## Requirements to run Generalized_Bertopic_Configuration.ipynb
 - Python 3.8+
-- BERTopic
-- OCTIS
+- pandas
+- bertopic
 - sentence-transformers
-- UMAP
-- HDBSCAN
 - scikit-learn
+- textblob
+- hdbscan
+- umap-learn
+- matplotlib
+- numpy
 
 ## Requirements to run BertopicOctisSetup.ipynb
 - Python 3.10
