@@ -56,8 +56,7 @@ Topics focused on settings and entities (ancient ruins, dreamlands, eldritch hor
 - **Uniqueness Score**: Topic separation and distinctiveness
 - **Outlier Analysis**: Model confidence and edge case handling
 
-## Requirements
-Requirements to run Generalized_Bertopic_Configuration.ipynb
+## Requirements to run Generalized_Bertopic_Configuration.ipynb
 - Python 3.8+
 - BERTopic
 - OCTIS
@@ -65,7 +64,8 @@ Requirements to run Generalized_Bertopic_Configuration.ipynb
 - UMAP
 - HDBSCAN
 - scikit-learn
-Requirements to run BertopicOctisSetup.ipynb
+
+## Requirements to run BertopicOctisSetup.ipynb
 - Python 3.10
 - OCTIS
 - scikit-learn version 1.1.0
